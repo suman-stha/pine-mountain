@@ -308,10 +308,9 @@ body {
 }
 .get-quote {
   margin-top: 12px;
-  
 }
 .get-quote .btn {
-  color:lightblue;
+  color: lightblue;
 }
 .header .logo {
   float: left;
@@ -2369,6 +2368,9 @@ body {
 /* Image Gallery */
 .news-single .image-gallery {
   margin-bottom: 20px;
+}
+#gallery {
+  margin-bottom: 1px;
 }
 .news-single .image-gallery .single-image {
   overflow: hidden;
