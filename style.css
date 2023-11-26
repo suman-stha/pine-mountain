@@ -55,7 +55,6 @@ body {
   color: #888;
 }
 
-
 .col-lg-3 col-md-3 col-12 {
   background-color: lightblue;
 }
@@ -309,9 +308,10 @@ body {
 }
 .get-quote {
   margin-top: 12px;
+  
 }
 .get-quote .btn {
-  color: #fff;
+  color:lightblue;
 }
 .header .logo {
   float: left;
@@ -3978,7 +3978,7 @@ body {
 .footer .footer-top {
   padding: 100px 0px;
   position: relative;
-  background: #1a76d1;
+  background: lightblue;
 }
 .footer .footer-top:before {
   position: absolute;
@@ -4160,7 +4160,7 @@ body {
   color: #2c2d3f;
 }
 .footer .copyright {
-  background: #1a76d1;
+  background: lightblue;
   padding: 25px 0px 25px 0px;
   text-align: center;
 }
